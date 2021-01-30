@@ -1,5 +1,11 @@
 package basics.dataTypes;
 
+/**
+ * 
+ * @author Manohar
+ * 
+ * @category: this will do demo for DataTypes
+ */
 public class DataTypes {
 
 	public static void main(String[] args) {
