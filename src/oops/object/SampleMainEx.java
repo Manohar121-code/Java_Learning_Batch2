@@ -25,5 +25,9 @@ public class SampleMainEx {
 		s2.m1();
 		s2.m2();
 		
+		
+		System.out.println("---------------");
+		final int k = 30;
+		
 	}
 }
