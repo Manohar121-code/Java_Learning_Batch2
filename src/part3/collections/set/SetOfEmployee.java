@@ -15,6 +15,8 @@ public class SetOfEmployee {
 		set.add(e2);
 		set.add(e3);
 		set.add(e4);
+		set.add(null);
+		set.add(null);
 		System.out.println("size - "+ set.size());
 		
 		System.out.println("-----------");
