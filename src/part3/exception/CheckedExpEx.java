@@ -13,7 +13,9 @@ public class CheckedExpEx {
 	}
 
 	private static void testLayer1(String s) throws Exception {
+		System.out.println("debug started");
 		testLayer2(s);
+		System.out.println("debug ended");
 	}
 
 	private static void testLayer2(String s) throws Exception {
